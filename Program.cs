@@ -4,3 +4,4 @@ Console.WriteLine("Hello, this is the original program.!");
 Console.WriteLine("Feature2 is amazing.");
 
 Console.WriteLine("More things about feature2.");
+Console.WriteLine("Feature2 is amazing.")
