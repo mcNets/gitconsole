@@ -9,4 +9,4 @@ Console.WriteLine("More work on main.");
 Console.WriteLine("Feature2 is amazing.");
 
 Console.WriteLine("More things about feature2.");
-Console.WriteLine("Feature2 is amazing.")
+Console.WriteLine("Feature2 is amazing.");
